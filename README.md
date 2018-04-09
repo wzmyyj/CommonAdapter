@@ -1,5 +1,5 @@
 # CommonAdapter
-打造Andriod万能适配器。
+打造Android万能适配器。
  
 
 使用方式：
